@@ -1,2 +1,2 @@
 # Foundations-Python
-Code for Lede Programe 2017 Foundations
+Code for Lede Program 2017 Foundations
