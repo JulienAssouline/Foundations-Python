@@ -1,0 +1,171 @@
+,Vulnerable (VU),Year,count
+0,Mammals,1996,612
+1,Birds,1996,704
+2,Reptiles,1996,153
+3,Amphibians,1996,75
+4,Fishes,1996,443
+5,Insects,1996,377
+6,Molluscs,1996,451
+7,Other Invertebrates,1996,300
+8,Plants,1996,3222
+9,Fungi & Protists,1996,0
+19,Fungi & Protists,2000,0
+18,Plants,2000,3331
+17,Other Invertebrates,2000,300
+16,Molluscs,2000,479
+15,Insects,2000,392
+12,Reptiles,2000,161
+13,Amphibians,2000,83
+11,Birds,2000,680
+10,Mammals,2000,610
+14,Fishes,2000,452
+26,Molluscs,2002,481
+29,Fungi & Protists,2002,0
+28,Plants,2002,3377
+27,Other Invertebrates,2002,300
+25,Insects,2002,393
+22,Reptiles,2002,159
+23,Amphibians,2002,90
+21,Birds,2002,684
+20,Mammals,2002,617
+24,Fishes,2002,442
+39,Fungi & Protists,2003,0
+38,Plants,2003,3864
+37,Other Invertebrates,2003,302
+36,Molluscs,2003,474
+35,Insects,2003,389
+33,Amphibians,2003,90
+32,Reptiles,2003,158
+31,Birds,2003,681
+30,Mammals,2003,609
+34,Fishes,2003,444
+46,Molluscs,2004,488
+49,Fungi & Protists,2004,0
+48,Plants,2004,4592
+47,Other Invertebrates,2004,316
+45,Insects,2004,392
+43,Amphibians,2004,628
+42,Reptiles,2004,161
+41,Birds,2004,688
+40,Mammals,2004,587
+44,Fishes,2004,470
+57,Other Invertebrates,2006,323
+59,Fungi & Protists,2006,0
+58,Plants,2006,4591
+56,Molluscs,2006,488
+55,Insects,2006,426
+54,Fishes,2006,681
+53,Amphibians,2006,631
+52,Reptiles,2006,167
+51,Birds,2006,674
+50,Mammals,2006,583
+147,Other Invertebrates,2007,325
+146,Molluscs,2007,486
+145,Insects,2007,425
+141,Birds,2007,672
+143,Amphibians,2007,630
+142,Reptiles,2007,204
+148,Plants,2007,4600
+144,Fishes,2007,693
+149,Fungi & Protists,2007,0
+140,Mammals,2007,582
+157,Other Invertebrates,2008,628
+158,Plants,2008,4602
+150,Mammals,2008,505
+151,Birds,2008,671
+152,Reptiles,2008,203
+159,Fungi & Protists,2008,0
+154,Fishes,2008,717
+155,Insects,2008,424
+156,Molluscs,2008,486
+153,Amphibians,2008,675
+160,Mammals,2009,505
+162,Reptiles,2009,226
+163,Amphibians,2009,657
+164,Fishes,2009,810
+165,Insects,2009,471
+166,Molluscs,2009,500
+167,Other Invertebrates,2009,629
+161,Birds,2009,669
+169,Fungi & Protists,2009,0
+168,Plants,2009,4607
+60,Mammals,2010,493
+61,Birds,2010,678
+62,Reptiles,2010,288
+63,Amphibians,2010,654
+64,Fishes,2010,1075
+65,Insects,2010,478
+66,Molluscs,2010,587
+67,Other Invertebrates,2010,568
+68,Plants,2010,4708
+69,Fungi & Protists,2010,0
+73,Amphibians,2011,655
+79,Fungi & Protists,2011,0
+78,Plants,2011,4861
+77,Other Invertebrates,2011,568
+76,Molluscs,2011,769
+70,Mammals,2011,497
+74,Fishes,2011,1137
+72,Reptiles,2011,351
+71,Birds,2011,682
+75,Insects,2011,481
+86,Molluscs,2012,828
+85,Insects,2012,503
+83,Amphibians,2012,657
+89,Fungi & Protists,2012,0
+81,Birds,2012,727
+80,Mammals,2012,497
+87,Other Invertebrates,2012,569
+82,Reptiles,2012,367
+88,Plants,2012,4914
+84,Fishes,2012,1149
+90,Mammals,2013,500
+91,Birds,2013,713
+92,Reptiles,2013,386
+93,Amphibians,2013,647
+94,Fishes,2013,1167
+95,Insects,2013,524
+96,Molluscs,2013,859
+97,Other Invertebrates,2013,650
+98,Plants,2013,5099
+99,Fungi & Protists,2013,0
+102,Reptiles,2014,397
+107,Other Invertebrates,2014,685
+106,Molluscs,2014,873
+105,Insects,2014,555
+104,Fishes,2014,1192
+108,Plants,2014,5234
+109,Fungi & Protists,2014,0
+101,Birds,2014,741
+100,Mammals,2014,509
+103,Amphibians,2014,650
+118,Plants,2015,5376
+117,Other Invertebrates,2015,685
+116,Molluscs,2015,871
+115,Insects,2015,565
+114,Fishes,2015,1211
+119,Fungi & Protists,2015,13
+112,Reptiles,2015,403
+111,Birds,2015,741
+110,Mammals,2015,507
+113,Amphibians,2015,656
+120,Mammals,2016,526
+128,Plants,2016,5446
+121,Birds,2016,787
+122,Reptiles,2016,421
+123,Amphibians,2016,670
+124,Fishes,2016,1238
+125,Insects,2016,634
+126,Molluscs,2016,885
+127,Other Invertebrates,2016,695
+129,Fungi & Protists,2016,14
+139,Fungi & Protists,2017,14
+131,Birds,2017,787
+132,Reptiles,2017,426
+133,Amphibians,2017,670
+134,Fishes,2017,1238
+135,Insects,2017,653
+136,Molluscs,2017,885
+137,Other Invertebrates,2017,703
+130,Mammals,2017,527
+138,Plants,2017,5464
